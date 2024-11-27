@@ -84,5 +84,6 @@ rsource "Kconfig.generic"
 rsource "Kconfig.quectel_lcx6g"
 rsource "Kconfig.u_blox_m8"
 rsource "Kconfig.luatos_air530z"
+rsource "Kconfig.telit_mex10g1"
 
 endif

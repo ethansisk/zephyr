@@ -1,0 +1,6 @@
+description: Telit MEX10G1 GNSS modem
+
+compatible: "telit,mex10g1-gnss"
+
+include:
+  - uart-device.yaml
